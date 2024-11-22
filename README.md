@@ -4,8 +4,7 @@ Yocto meta layer for Xilinx bootgen utiity
 This README file contains information on the contents of the meta-bootgen layer.
 Please see the corresponding sections below for details.
 
-WARNING: this repository has not been finalized with a pending know compilation issue of openssl library not visible to the compiler.
-The issue is to be further investigated and resolved.
+WARNING: this meta layer project has not been finalized: there is a known compilation issue of openssl library being not visible to the Yocto toolchain compiler. The issue is to be further investigated and resolved.
 
 # Dependencies
   openssl library
